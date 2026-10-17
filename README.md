@@ -7,8 +7,12 @@
 
 <p>Building NEKO :p </p>
 
-<p align="center"><a href="https://www.linkedin.com/in/k2byak/"><img src="https://img.shields.io/badge/-LinkedIn-E53935?style=flat-square&amp;logo=linkedin&amp;logoColor=111111" alt="LinkedIn"/></a>&nbsp;<a href="https://x.com/K2byAK"><img src="https://img.shields.io/badge/-X-111111?style=flat-square&amp;logo=x&amp;logoColor=E53935" alt="X"/></a>&nbsp;<a href="https://ko-fi.com/akris"><img src="https://img.shields.io/badge/-Ko--fi-111111?style=flat-square&amp;logo=ko-fi&amp;logoColor=E53935" alt="Ko-fi"/></a>&nbsp;<img src="https://komarev.com/ghpvc/?username=K2K22K2K22&amp;label=VIEWS&amp;color=E53935&amp;style=flat-square" alt="Profile-Views" /></p>
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/k2byak/"><img src="https://img.shields.io/badge/LinkedIn-E53935?style=flat-square&amp;logo=linkedin&amp;logoColor=111111" alt="LinkedIn" /></a>
+  <a href="https://x.com/K2byAK"><img src="https://img.shields.io/badge/X-111111?style=flat-square&amp;logo=x&amp;logoColor=E53935" alt="X" /></a>
+  <a href="https://ko-fi.com/akris"><img src="https://img.shields.io/badge/Ko--fi-111111?style=flat-square&amp;logo=ko-fi&amp;logoColor=E53935" alt="Ko-fi" /></a>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=K2K22K2K22.K2K22K2K22&amp;left_text=Views&amp;left_color=%23111111&amp;right_color=%23E53935&amp;height=20&amp;radius=0" alt="Views" />
+</p>
 </div>
 
 ---
